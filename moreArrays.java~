@@ -1,0 +1,22 @@
+/*
+ * Enhanced for-long is used to pick up an index of the array one at a time
+ * 
+ */
+
+import java.util.Scanner;
+import java.util.Arrays;
+import java.util.Random;
+
+class moreArrays {
+  public static void main(String[] args) {
+    Scanner in = new Scanner(System.in);
+    System.out.println("How many words will you enter?");
+    int n  = in.nextInt();
+    System.out.println("Please enter the words, one at a time.");
+    String[] allWords = new String[n];
+    for (int i=0; i<allWords.length; i++) {
+      allWords[i] = in.next();
+    }
+  }
+}
+    

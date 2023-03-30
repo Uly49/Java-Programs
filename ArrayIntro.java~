@@ -1,0 +1,26 @@
+/*
+ * introduction to arrays in Java
+ */
+
+import java.util.Scanner;
+import java.util.Random;
+
+class ArrayIntro {
+  public static void main(String[] args) {
+    Scanner in = new Scanner(System.in);
+    Random randGen = new Random();
+    
+    //create an array to store 10 integers
+    int[] myArray; //declare the array variable to be of type: "array of integers"
+    myArray = new int[10]; //creates the array in memory with 10 "cells", number of elements is 10
+    
+    //initialize the array with values
+    for (int i=0; i<10; i++) {
+      myArray[i] = randGen.nextInt(201)-100;  //assign a random int, -100 to 100, to the spot
+    }
+    
+    for (int i=0; i<10; i++) { //print out each element of the array, on separate lines
+      System.out.println(myArray[i]);
+    }
+  }
+}

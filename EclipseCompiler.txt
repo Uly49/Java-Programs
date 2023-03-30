@@ -1,0 +1,111 @@
+1 Feb 2021 15:06:28 GMT: Log 'EclipseCompiler.txt' opened: 1 Feb 2021 15:06:28 GMT with name C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\EclipseCompiler.txt
+1 Feb 2021 15:07:49 GMT: diagnostics = javax.tools.DiagnosticCollector@17abd95
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e533c3
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop1.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop2.java]
+1 Feb 2021 15:07:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@183a88a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+1 Feb 2021 15:07:49 GMT: Compiler call returned
+1 Feb 2021 15:07:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14932e8
+1 Feb 2021 15:07:49 GMT:  Kind = WARNING
+1 Feb 2021 15:07:49 GMT: Name = C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop1.java LineNo = 7 ColNo = 13 Msg = 'Resource leak: 'in' is never closed'
+1 Feb 2021 15:08:12 GMT: diagnostics = javax.tools.DiagnosticCollector@1b74424
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1522999
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop1.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop2.java]
+1 Feb 2021 15:08:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@95f4cd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+1 Feb 2021 15:08:12 GMT: Compiler call returned
+1 Feb 2021 15:08:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1194c73
+1 Feb 2021 15:08:12 GMT:  Kind = ERROR
+1 Feb 2021 15:08:12 GMT: Name = C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop2.java LineNo = 14 ColNo = 1 Msg = 'Syntax error, insert "VariableDeclarators" to complete LocalVariableDeclaration'
+1 Feb 2021 15:08:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3a9dc1
+1 Feb 2021 15:08:12 GMT:  Kind = ERROR
+1 Feb 2021 15:08:12 GMT: Name = C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop2.java LineNo = 14 ColNo = 1 Msg = 'Syntax error, insert ";" to complete LocalVariableDeclarationStatement'
+1 Feb 2021 15:09:05 GMT: diagnostics = javax.tools.DiagnosticCollector@1fd0c66
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@92ab56
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop1.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop2.java]
+1 Feb 2021 15:09:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@347b08' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+1 Feb 2021 15:09:05 GMT: Compiler call returned
+1 Feb 2021 15:12:29 GMT: diagnostics = javax.tools.DiagnosticCollector@38ece1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a9c159
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop1.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop2.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop3.java]
+1 Feb 2021 15:12:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@cd4c8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+1 Feb 2021 15:12:29 GMT: Compiler call returned
+1 Feb 2021 15:12:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15fed40
+1 Feb 2021 15:12:29 GMT:  Kind = WARNING
+1 Feb 2021 15:12:29 GMT: Name = C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop3.java LineNo = 7 ColNo = 13 Msg = 'Resource leak: 'in' is never closed'
+1 Feb 2021 15:12:32 GMT: diagnostics = javax.tools.DiagnosticCollector@f50946
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19c234e
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop1.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop2.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop3.java]
+1 Feb 2021 15:12:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@58ca16' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+1 Feb 2021 15:12:32 GMT: Compiler call returned
+1 Feb 2021 15:12:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e7c7b
+1 Feb 2021 15:12:32 GMT:  Kind = WARNING
+1 Feb 2021 15:12:32 GMT: Name = C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop3.java LineNo = 7 ColNo = 13 Msg = 'Resource leak: 'in' is never closed'
+1 Feb 2021 15:12:46 GMT: diagnostics = javax.tools.DiagnosticCollector@1dddc5f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@176daf8
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop1.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop2.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop3.java]
+1 Feb 2021 15:12:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d2d23c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+1 Feb 2021 15:12:46 GMT: Compiler call returned
+1 Feb 2021 15:35:20 GMT: diagnostics = javax.tools.DiagnosticCollector@14c7cb4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14e7932
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop1.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop2.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop3.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop4.java]
+1 Feb 2021 15:35:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@530892' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+1 Feb 2021 15:35:20 GMT: Compiler call returned
+1 Feb 2021 15:35:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@df4341
+1 Feb 2021 15:35:20 GMT:  Kind = WARNING
+1 Feb 2021 15:35:20 GMT: Name = C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop4.java LineNo = 7 ColNo = 12 Msg = 'Resource leak: 'in' is never closed'
+1 Feb 2021 15:35:37 GMT: diagnostics = javax.tools.DiagnosticCollector@17ce6ee
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@59427f
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop1.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop2.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop3.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop4.java]
+1 Feb 2021 15:35:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fbe73a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+1 Feb 2021 15:35:37 GMT: Compiler call returned
+1 Feb 2021 15:37:03 GMT: diagnostics = javax.tools.DiagnosticCollector@494f9b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1bf2dff
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop1.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop2.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop3.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop4.java, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\Loop5.java]
+1 Feb 2021 15:37:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13e51bc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+1 Feb 2021 15:37:03 GMT: Compiler call returned
+19 Feb 2021 3:42:16 GMT: Log 'EclipseCompiler.txt' opened: 19 Feb 2021 3:42:16 GMT with name C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\EclipseCompiler.txt
+19 Feb 2021 3:46:32 GMT: Log 'EclipseCompiler.txt' opened: 19 Feb 2021 3:46:32 GMT with name C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\EclipseCompiler.txt
+19 Feb 2021 3:51:15 GMT: diagnostics = javax.tools.DiagnosticCollector@b22292
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1cddee3
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\CoinAssignment.java]
+19 Feb 2021 3:51:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@eadd0f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Documents\CSCI 241;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+19 Feb 2021 3:51:15 GMT: Compiler call returned
+19 Feb 2021 3:51:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@116d3bd
+19 Feb 2021 3:51:15 GMT:  Kind = WARNING
+19 Feb 2021 3:51:15 GMT: Name = C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\CoinAssignment.java LineNo = 13 ColNo = 13 Msg = 'Resource leak: 'scnr' is never closed'
+19 Feb 2021 4:05:40 GMT: diagnostics = javax.tools.DiagnosticCollector@19155bd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f88114
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\guessingGame.java]
+19 Feb 2021 4:05:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@47e460' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Documents\CSCI 241;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+19 Feb 2021 4:05:40 GMT: Compiler call returned
+19 Feb 2021 4:05:40 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e76e87
+19 Feb 2021 4:05:40 GMT:  Kind = WARNING
+19 Feb 2021 4:05:40 GMT: Name = C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\guessingGame.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'in' is never closed'
+19 Feb 2021 4:05:52 GMT: diagnostics = javax.tools.DiagnosticCollector@1be0443
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a06123
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\guessingGame.java]
+19 Feb 2021 4:05:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@68889e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\CSCI 241;C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+19 Feb 2021 4:05:52 GMT: Compiler call returned
+19 Feb 2021 4:05:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b2838
+19 Feb 2021 4:05:52 GMT:  Kind = ERROR
+19 Feb 2021 4:05:52 GMT: Name = C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\guessingGame.java LineNo = 42 ColNo = 6 Msg = 'Syntax error, insert "Identifier (" to complete MethodHeaderName'
+19 Feb 2021 4:05:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a6ba8b
+19 Feb 2021 4:05:52 GMT:  Kind = ERROR
+19 Feb 2021 4:05:52 GMT: Name = C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\guessingGame.java LineNo = 42 ColNo = 6 Msg = 'Syntax error, insert ")" to complete MethodDeclaration'
+19 Feb 2021 4:06:02 GMT: diagnostics = javax.tools.DiagnosticCollector@1702bd6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a94a42
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\guessingGame.java]
+19 Feb 2021 4:06:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@899419' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\CSCI 241;C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+19 Feb 2021 4:06:03 GMT: Compiler call returned
+19 Feb 2021 4:06:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ec6cde
+19 Feb 2021 4:06:03 GMT:  Kind = WARNING
+19 Feb 2021 4:06:03 GMT: Name = C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\guessingGame.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'in' is never closed'
+19 Feb 2021 4:07:38 GMT: Log 'EclipseCompiler.txt' opened: 19 Feb 2021 4:07:38 GMT with name C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\EclipseCompiler.txt
+2 Mar 2021 3:20:56 GMT: Log 'EclipseCompiler.txt' opened: 2 Mar 2021 3:20:56 GMT with name C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\EclipseCompiler.txt
+2 Mar 2021 3:21:50 GMT: diagnostics = javax.tools.DiagnosticCollector@14584dd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@172232d
+fileObjects = [C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\CoinAssignment.java]
+2 Mar 2021 3:21:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1168dee' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code;C:\Users\uly49\OneDrive\Desktop\drjava-beta-20160913-225446.exe]
+2 Mar 2021 3:21:51 GMT: Compiler call returned
+2 Mar 2021 3:21:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a3673f
+2 Mar 2021 3:21:51 GMT:  Kind = WARNING
+2 Mar 2021 3:21:51 GMT: Name = C:\Users\uly49\OneDrive\Documents\Java Code\Sample Code\CoinAssignment.java LineNo = 13 ColNo = 13 Msg = 'Resource leak: 'scnr' is never closed'
